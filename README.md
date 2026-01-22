@@ -10,4 +10,4 @@ Currículo profissional desenvolvido em HTML e CSS com foco em estágio em TI.
 Praticar desenvolvimento web e apresentar meu currículo de forma online e acessível.
 
 ## 🌐 Visualização
-Acesse: https://seu-usuario.github.io/curriculo-html/
+Acesse: https://lucasgalves365.github.io/curriculo-html/
